@@ -1,0 +1,10 @@
+/Users/antonchernyavskiy/Desktop/projects/aop-realization-examples/src/main/java/ru/achernyavskiy0n/aop/AopApplicationAspectManager.java
+/Users/antonchernyavskiy/Desktop/projects/aop-realization-examples/src/main/java/ru/achernyavskiy0n/service/RedisAopCachingService.java
+/Users/antonchernyavskiy/Desktop/projects/aop-realization-examples/src/main/java/ru/achernyavskiy0n/AopApplication.java
+/Users/antonchernyavskiy/Desktop/projects/aop-realization-examples/src/main/java/ru/achernyavskiy0n/controller/RedisAopCacheRestController.java
+/Users/antonchernyavskiy/Desktop/projects/aop-realization-examples/src/main/java/ru/achernyavskiy0n/Numbers.java
+/Users/antonchernyavskiy/Desktop/projects/aop-realization-examples/src/main/java/ru/achernyavskiy0n/config/AopConfiguration.java
+/Users/antonchernyavskiy/Desktop/projects/aop-realization-examples/src/main/java/ru/achernyavskiy0n/exception/SimpleException.java
+/Users/antonchernyavskiy/Desktop/projects/aop-realization-examples/src/main/java/ru/achernyavskiy0n/controller/AopController.java
+/Users/antonchernyavskiy/Desktop/projects/aop-realization-examples/src/main/java/ru/achernyavskiy0n/repository/SimpleRepository.java
+/Users/antonchernyavskiy/Desktop/projects/aop-realization-examples/src/main/java/ru/achernyavskiy0n/service/SimpleService.java

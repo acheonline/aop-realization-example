@@ -1,0 +1,8 @@
+server:
+  spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+  port: ${SERVER_PORT:8080}
+logging.level:
+  ru.achernyavskiy0n.aop.LoggingAspect: TRACE
