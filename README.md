@@ -2,7 +2,7 @@
 
 
 _This project takes overview of some most useful concepts of AOP Spring.
-Such as Advices, PointCuts, key core concepts of AOP and business use cases of them._
+Such as Advices, Pointcuts and key core concepts of AOP with use cases._
 
 ### **For local execution customize jdk image at Dockerfile and SERVER_PORT**
 
